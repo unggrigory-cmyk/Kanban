@@ -27,7 +27,8 @@ export function TaskFilterToolbar() {
           aria-hidden="true"
         />
         <input
-          type="search"
+          type="text"
+          role="searchbox"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           placeholder="Поиск по названию, описанию, исполнителю..."
