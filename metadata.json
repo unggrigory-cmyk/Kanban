@@ -1,0 +1,6 @@
+{
+  "name": "Поток — Канбан-доска",
+  "description": "Канбан-доска с перетаскиванием задач, управлением этапами воронки и отслеживанием прогресса в реальном времени.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
